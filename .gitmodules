@@ -1,0 +1,3 @@
+[submodule "ncase-anxiety"]
+	path = ncase-anxiety
+	url = https://github.com/nathsom/anxiety
